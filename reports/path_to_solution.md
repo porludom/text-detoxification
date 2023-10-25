@@ -2,9 +2,10 @@
 
 ### Baseline model
 The first model I created was the following: \
-Model takes the input, and masks all swear phrases using large predefined set of constructions. The data can be accesed from __/data/external__\
-Then model propogated the masked sentence to BERT that tries to fill those masks.\
-algorithm checks the variants BERT proposes, and takes not toxic ones.\
+- Model takes the input, and masks all swear phrases using large predefined set of constructions. The data can be accesed from __/data/external__\
+- Then model propogated the masked sentence to BERT that tries to fill those masks.\
+- Algorithm checks the variants BERT proposes, and takes not toxic ones.\
+
 Example of how model works:\
 Input: __You are fucking nothing in talking to people__\
 Output: You are absolutely nothing in talking to people
