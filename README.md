@@ -18,8 +18,8 @@ This repository also contains other model in \textbf{notebooks/2.bert\_replace\_
 
 ### Running the model
 Do the following to run the model
-    \item Download the repository. For example. using __git clone https://github.com/porludom/text-detoxification.git__
-    \item Run the __src/models/t5_use.py__ file with arguments specified below
+1. Download the repository. For example. using __git clone https://github.com/porludom/text-detoxification.git__
+2. Run the __src/models/t5_use.py__ file with arguments specified below
 
 When running t5_use.py, you should specify the following arguments:
 
@@ -29,8 +29,13 @@ The input string. What to detoxificate, like "Holly shit, it was a mistake"
 
 ### The structure of repository
 -__data__ folder contains all the data used.
+
 -__models__ folder contains models, tokenizers trained or used
+
 -__notebooks__ folder contains all the .py and .ipynb files used
+
 -__reports__ folder contains reports for the course purposes
+
 -__src__ folder contains all about final model (t5-small trained)
+
 - -__models__ folder contains all the files to train and run t5-small models on detoxification task
