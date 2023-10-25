@@ -42,4 +42,4 @@ The input string. What to detoxificate, like "Holly shit, it was a mistake"
 
 - __src__ folder contains all about final model (t5-small trained)
 
-- -__models__ folder contains all the files to train and run t5-small models on detoxification task
+- - __models__ folder contains all the files to train and run t5-small models on detoxification task
