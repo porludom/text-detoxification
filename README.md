@@ -7,13 +7,13 @@ Here is the repository for the first assignment about Text detoxification.
 
 The examples how my best model performs detoxification:
 
-First:
+First: \
 Input: __This shit reminded me too much of my shit past when I was killing people for damn nothing__ \
-Output: This reminded me too much of my past when I killed people for nothing
+Output: This reminded me too much of my past when I killed people for nothing \
   
-Second:
+Second: \
 Input: __I don't know how you eat pancakewiches. they look so awful__\
-Output: I don't know how you eat pancakes, they look terrible
+Output: I don't know how you eat pancakes, they look terrible \
 
 So, the model can easily rephrase many swear phrases to more polite ones.
 ### Model I will describe next
