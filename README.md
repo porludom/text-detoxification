@@ -14,7 +14,7 @@ The examples how my best model performs detoxification:
 So, the model can easily rephrase many swear phrases to more polite ones.
 ### Model I will describe next
 Next sections I will be talking about trained on detoxofication task t5-small model.
-This repository also contains other model in \textbf{notebooks/2.bert\_replace\_model}. This is the model that looks for swear words in the sentence, masks them and asks BERT language model to replace those masks by more polite words. Obviously, this model not more than baseline model that gives poor results in comparison to transformer trained to the detoxification task
+This repository also contains other model in __notebooks/2.bert_replace_model__. This is the model that looks for swear words in the sentence, masks them and asks BERT language model to replace those masks by more polite words. Obviously, this model not more than baseline model that gives poor results in comparison to transformer trained to the detoxification task
 
 ### Running the model
 Do the following to run the model
