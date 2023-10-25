@@ -9,7 +9,7 @@ Here are the metrics during training:\
 ![scores](/reports/figures/scores1.png)
 \
 
-Here are some examples of model work that show the correct behaviour of the model:\
+Here are some examples of model work that show the correct behaviour of the model:
 - Input : __oh, I have fucked up, sorry. what can I do for you, fucking nerd?__
 - Output: I'm sorry, what can I do for you, nerd?
 -----------------------------------------
