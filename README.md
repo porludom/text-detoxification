@@ -32,14 +32,14 @@ The input string. What to detoxificate, like "Holly shit, it was a mistake"
 --tokenizer_path. The path to tokenizer. By default it is "./../../models/tokenizer", the official tokenizer for t5-small
 
 ### The structure of repository
--__data__ folder contains all the data used.
+- __data__ folder contains all the data used.
 
--__models__ folder contains models, tokenizers trained or used
+- __models__ folder contains models, tokenizers trained or used
 
--__notebooks__ folder contains all the .py and .ipynb files used
+- __notebooks__ folder contains all the .py and .ipynb files used
 
--__reports__ folder contains reports for the course purposes
+- __reports__ folder contains reports for the course purposes
 
--__src__ folder contains all about final model (t5-small trained)
+- __src__ folder contains all about final model (t5-small trained)
 
 - -__models__ folder contains all the files to train and run t5-small models on detoxification task
