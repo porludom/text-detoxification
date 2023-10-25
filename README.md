@@ -27,9 +27,9 @@ Do the following to run the model
 
 When running t5_use.py, you should specify the following arguments:
 
-The input string. What to detoxificate, like "Holy shit, it was a mistake" \
---model_path. The path to model. By default it is "./../../models/modelka", the pretrained model by me \
---tokenizer_path. The path to tokenizer. By default it is "./../../models/tokenizer", the official tokenizer for t5-small\
+- The input string. What to detoxificate, like "Holy shit, it was a mistake" \
+- --model_path. The path to model. By default it is "./../../models/modelka", the pretrained model by me \
+- --tokenizer_path. The path to tokenizer. By default it is "./../../models/tokenizer", the official tokenizer for t5-small\
 __Example__: py t5_use.py "Fuck, sorry for my mistake" "./../../models/modelka" "./../../models/tokenizer"
 
 ### The structure of repository
